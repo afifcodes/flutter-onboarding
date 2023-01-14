@@ -9,8 +9,8 @@ void main() => runApp(const MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifcodes/flutter-onboarding-example.git
-cd flutter-onboarding-example
+git clone https://github.com/afifcodes/flutter-onboarding-ui.git
+cd flutter-onboarding-ui
 flutter pub get
 flutter run
 ```
